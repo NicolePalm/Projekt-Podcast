@@ -1,0 +1,9 @@
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\bin\Debug\Projekt.exe
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\bin\Debug\Projekt.pdb
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Granssnitt.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Granssnitt.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Projekt.exe
+C:\Users\nicol\OneDrive\Dokument\Informatik, Objektoridenterad programmering med C#, fortsättningskurs\Visual Studios\Projekt\obj\Debug\Projekt.pdb
